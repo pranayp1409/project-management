@@ -3,7 +3,7 @@ import React from "react";
 
 const Settings = () => {
   const userSettings = {
-    username: "pranay",
+    username: "Pranay",
     email: "pranay@example.com",
     teamName: "Development Team",
     roleName: "Developer",
@@ -39,4 +39,3 @@ const Settings = () => {
 };
 
 export default Settings;
-s
